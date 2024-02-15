@@ -1,0 +1,24 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Theme.anzhiyu
+title: Faceless Blog
+subtitle: 如无必要 勿增实体
+description: 数据采集、逆向安全、网络杂谈
+author: Alan Hays
+language: zh-CN
+
+theme: anzhiyu
+
+## permalink: :year/:month/:day/:title/
+## 此处可以自己设置,也可以直接使用 :/abbrlink
+permalink: posts/:abbrlink.html
+
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: https://haysalan.github.io
+
+deploy:
+  type: git
+  repo: ''
