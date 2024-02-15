@@ -31,6 +31,11 @@ nav:
         - name: facelessjsvmp
           link: https://alanhays.gitee.io/facelessjsvmp/
           icon: https://imgsrc.baidu.com/forum/pic/item/9213b07eca806538fb58ba27d1dda144ad348250.png
+    - title: 博客
+      item:
+        - name: Faceless Blog
+          link: https://alanhays.gitee.io
+          icon: https://imgsrc.baidu.com/forum/pic/item/9213b07eca806538fb58ba27d1dda144ad348250.png
 
 
 ## abbrlink config
