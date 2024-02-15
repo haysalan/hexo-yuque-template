@@ -18,9 +18,8 @@
 
 ### 第二步 配置私有仓库环境变量
 
-1.github个人设置创建token reop权限以及无时间期限
-
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/26634545/1708000148328-10b3635b-b3c9-4b04-a25c-eaf78e99b518.png#averageHue=%23fefcf8&clientId=u1abacee4-2207-4&from=paste&height=742&id=u6a6d5b1f&originHeight=1113&originWidth=1920&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=176740&status=done&style=none&taskId=u5e0882c9-3c9b-4443-838b-92ad5fed1e4&title=&width=1280)
+1.github个人设置创建token 给与workflow权限以及无时间期限。
+![image.png](https://cdn.nlark.com/yuque/0/2024/png/26634545/1708004138179-a9745680-2e72-416d-bba9-00913ab4e7cb.png#averageHue=%23fefcf8&clientId=u19099788-83ff-4&from=paste&height=740&id=u89e4af88&originHeight=1110&originWidth=1894&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=171807&status=done&style=none&taskId=u6f965fa4-65e1-44a8-aaeb-17b680d0756&title=&width=1262.6666666666667)
 
 2.将github token 配置到你的私有仓库中。**名称需一致**。
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/26634545/1708000324358-713596cf-6b43-47b7-8e7e-7d80a21466d2.png#averageHue=%23fefefe&clientId=u22a9482c-048f-4&from=paste&height=806&id=u4587f0a2&originHeight=1209&originWidth=1920&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=130041&status=done&style=none&taskId=u8942af84-1ea7-4e08-8012-9876e0fe226&title=&width=1280)
