@@ -152,7 +152,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://foruda.gitee.com/avatar/1694133830845201273/9980153_alanhays_1694133830.png
+  img: https://imgsrc.baidu.com/forum/pic/item/9213b07eca806538fb58ba27d1dda144ad348250.png
   effect: false
 
 # Disable all banner image
@@ -884,7 +884,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://foruda.gitee.com/avatar/1694133830845201273/9980153_alanhays_1694133830.png # 自定加载动画义头像
+  avatar: https://imgsrc.baidu.com/forum/pic/item/9213b07eca806538fb58ba27d1dda144ad348250.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
