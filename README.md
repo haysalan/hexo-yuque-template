@@ -1,5 +1,9 @@
 # 基于语雀文章的Hexo框架博客模板
 
+## 预览
+
+博客预览： [https://haysalan.github.io/](https://haysalan.github.io/)
+
 ## 特点
 
 - 支持在线一键部署或更新博客
@@ -43,9 +47,3 @@
 默认使用anzhiyu主题，可自行更换。
 安装hexo主题或依赖请修改 `blog-update.yml`。
 构建博客静态文件前后指令添加请修改`script/generate.sh`。
-
-## 预览
-
-博客预览： [https://haysalan.github.io/](https://haysalan.github.io/)
-博客模板：[https://github.com/haysalan/hexo-yuque-template](https://github.com/haysalan/hexo-yuque-template)
-github：[https://github.com/Alanhays](https://github.com/Alanhays)
