@@ -8,7 +8,7 @@
 
 - 支持在线一键部署或更新博客
 - 支持拉取语雀文章自动更新博客内容
-- ~~支持自定义github actons或gitee工作流~~ (gitee pages 下线无法进行同步)
+- 支持自定义github actons ~~或gitee工作流~~ (gitee pages 下线无法进行同步)
 - 高度可配置，支持自定义部署脚本
 
 ## 使用
